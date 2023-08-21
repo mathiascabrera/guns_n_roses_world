@@ -40,9 +40,15 @@ li{
     margin-right: 18%;
 }
 a{
+    
     font-size: 220%;
     text-decoration: none;
+    color: black;
     
+}
+nav ul li a:hover{
+
+    color: rgb(80, 80, 80);
 }
 .container1{
     display: flex;
