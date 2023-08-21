@@ -40,7 +40,9 @@ li{
     margin-right: 18%;
 }
 a{
-    
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 220%;
     text-decoration: none;
     color: black;
