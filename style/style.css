@@ -59,3 +59,6 @@ nav ul li a:hover{
     margin-left: 10%;
     width: 22%;
 }
+.animate__bounce:hover{
+    width: 21%;
+}
