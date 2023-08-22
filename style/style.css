@@ -88,6 +88,12 @@ nav ul li a:hover{
 .logo_main1{
     width:35vw;
 }
+
+.logo_main1:hover {
+    width: 34vw;
+}
+
+
 .aside2{
     grid-area: aside2;
     display: flex;
@@ -107,9 +113,6 @@ nav ul li a:hover{
 }
 .footer-grid{
     grid-area: footer;
-    width: 100vw;
-    height: 50vh;
-    background-color: rgb(141, 1, 255);
 }
 
 
